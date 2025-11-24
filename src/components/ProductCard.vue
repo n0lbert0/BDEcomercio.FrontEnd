@@ -15,7 +15,7 @@
     <q-img
       :src="product.image"
       :alt="product.name"
-      style="height: 300px; width: auto; max-width: 400px; object-fit: contain"
+      style="height: 300px; width: 100%; object-fit: contain"
       class="q-pa-sm"
     />
 
